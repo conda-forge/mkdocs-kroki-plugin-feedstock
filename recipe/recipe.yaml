@@ -1,5 +1,5 @@
 context:
-  version: "1.6.0"
+  version: "1.7.0"
 
 package:
   name: mkdocs-kroki-plugin
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/mkdocs-kroki-plugin/mkdocs_kroki_plugin-${{ version }}.tar.gz
-  sha256: 5d07909a8189703470571c6beabe29e168c32b16f84b231f68d9739868afe4c2
+  sha256: 0ee07e634d89ba0f10cc9b82aa48305bc8c84dc34353b8fee21af0e80607054b
 
 build:
   number: 0
